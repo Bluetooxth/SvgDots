@@ -14,7 +14,16 @@ export const metadata = {
     "A collection of SVG patterns, Developed & maintained by Priyanshu Chahar.",
   keywords:
     "svg, svg patterns, svg shapes, svg dots, svg lines, svg waves, svg triangles, svg squares, svg circles, svg polygons, svg stars, svg hearts, svg spirals, svg curves, svg, hero svg patterns, hero svg shapes, hero svg dots, hero svg lines, hero svg waves, hero svg triangles, hero svg squares, hero svg circles, hero svg polygons, hero svg stars, hero svg hearts, hero svg spirals, hero svg curves, hero svg, hero svg patterns, hero svg shapes, hero svg dots, hero svg lines, hero svg waves, hero svg triangles, hero svg squares, hero svg circles, hero svg polygons, hero svg stars, hero svg hearts, hero svg spirals, hero svg curves, hero svg, hero svg patterns, hero svg shapes, hero svg dots, hero svg lines, hero svg waves, hero svg triangles, hero svg squares, hero svg circles, hero svg polygons, hero svg stars, hero svg hearts, hero svg spirals, hero svg curves, hero svg, hero svg patterns, hero svg shapes, hero svg dots, hero svg lines, hero svg waves, hero svg triangles, hero svg squares, hero svg circles, hero svg polygons, hero svg stars, hero svg hearts, hero svg spirals, hero svg curves, hero svg, hero svg patterns, hero svg shapes, hero svg dots, hero svg lines, hero svg waves, hero svg triangles, hero svg squares, hero svg circles, hero svg polygons, hero svg stars, hero svg hearts, hero svg spirals, hero svg curves, hero svg, hero svg patterns, hero svg shapes, hero svg dots, hero svg lines, hero svg waves, hero svg triangles, hero svg squares, hero svg circles, hero svg polygons, hero svg stars, hero svg hearts, hero svg spirals, hero svg curves, hero svg, hero svg patterns, hero svg shapes, hero svg dots, hero svg lines, hero svg waves, hero svg triangles, hero svg squares, hero svg circles, hero svg polygons, hero svg stars, hero svg hearts, hero svg spirals, hero svg curves, hero svg, hero svg patterns, hero svg shapes, hero svg dots, hero svg lines, hero svg waves, hero svg triangles, hero svg squares, hero svg circles, hero svg polygons, hero svg stars, hero svg hearts, hero svg spirals, hero svg curves, hero svg, hero svg patterns, hero svg shapes, hero svg dots, hero svg lines, hero svg waves, hero svg triangles, hero svg squares, hero svg circles, hero svg polygons, hero svg stars, hero svg hearts, hero svg spirals, hero svg curves, hero svg,",
-  image: "/preview.svg",
+  openGraph: {
+    title: "SvgDots",
+    description:
+      "A collection of SVG patterns, Developed & maintained by Priyanshu Chahar.",
+    type: "website",
+    url: "https://svg-dots.vercel.app",
+    image: "/preview.svg",
+    site_name: "SvgDots",
+    locale: "en_US",
+  },
 };
 
 export default function RootLayout({ children }) {
